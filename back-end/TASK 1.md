@@ -6,7 +6,7 @@
 
 3版本号  java version "26.0.2.1" 
 
-4![](images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-16%20191537.png)
+4![](img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-16%20191537.png)
 
 
 
@@ -18,7 +18,7 @@ JAVA_HOME  作用：记录JDK安装的主文件夹路径，方便其他软件找
 
 2配置完成后，系统就会按照Path配置好的路径去找到java javac进而直接识别java javac
 
-3![](images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-16%20193042.png)
+3![](img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-16%20193042.png)
 
 4HelloJava.java是编写出的源代码文件                                                                                                           HelloJava.class是通过javac翻译出的字节码文件，供JVM执行                                                                                     javac作用：将HelloJava,java里面的源代码翻译为.class的字节码文件供JVM使用                                                         java作用：启动JVM加载刚生成的class文件并执行，在屏幕上打印出Hello World
 
